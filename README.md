@@ -1,4 +1,4 @@
-## ![header](https://capsule-render.vercel.app/api?type=rect&color=skyblue&height=300&text=HI%HELLO%안녕!)
+## ![header](https://capsule-render.vercel.app/api?type=rect&color=blue&height=300&text=HI%HELLO%안녕!)
 
 <!--
 **sl2py/sl2py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
